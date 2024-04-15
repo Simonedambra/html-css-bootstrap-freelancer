@@ -1,1 +1,13 @@
 /* color class */
+
+.sd-bg-green {
+    background-color: #1abc9c;
+}
+
+.sd-bg-lightdark {
+    background-color: #3a546d;
+}
+
+.sd-bg-dark {
+    background-color: #2c3e50;
+}
