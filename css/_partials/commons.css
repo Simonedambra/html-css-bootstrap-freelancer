@@ -33,3 +33,11 @@
     height: auto;
 
 }
+
+.sd-icon-social-circle i {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin: 0px 15px;
+}
