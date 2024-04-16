@@ -1,3 +1,7 @@
+/*********
+backgroud color
+**********/
+
 .sd-bg-green {
     background-color: #1abc9c;
 }
@@ -10,18 +14,31 @@
     background-color: #2c3e50;
 }
 
+/*********
+backgroud color
+**********/
+
+
+/*********
+color
+**********/
+
 .color-white {
     color: #fff;
-}
-
-.sd-icon-hr hr {
-
-    width: 6rem;
 }
 
 .sd-col-dark {
     color: #2c3e50;
 }
+
+/*********
+color
+**********/
+.sd-icon-hr hr {
+
+    width: 6rem;
+}
+
 
 .sd-btn-bor {
     border: .125rem solid gray;
@@ -31,6 +48,7 @@
 .sd-img img {
     max-width: 100%;
     height: auto;
+
 
 }
 
